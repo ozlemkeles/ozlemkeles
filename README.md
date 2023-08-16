@@ -7,6 +7,7 @@ I graduated with a degree in Geological Engineering from Istanbul Technical Univ
 
 I'm also currently enrolled in the Backend Web Development Bootcamp at Re:Coded, where I'm deepening my skills in technologies like JavaScript and Node.js. One of the highlights of my journey is the **Cookiz** project, which was a collaborative effort and a graduation project.  
 
+- [Re:Coded](https://github.com/RCDD-202303-TUR-BEW): Active member and learner in the Backend Web Development Bootcamp, diving into various coding assignments and projects.
 - [Cookiz](https://github.com/ozlemkeles/cookiz): Explore the Cookiz project and witness the results of our hard work, problem-solving, and passion for coding.
 
 Let's connect and learn from each other! You can find me on [LinkedIn](https://www.linkedin.com/in/ozlemkeles1/) where I share my professional experiences and connect with fellow developers.  
