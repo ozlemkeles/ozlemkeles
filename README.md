@@ -5,7 +5,7 @@ Hi there! I'm Özlem, on my journey to becoming a Backend Developer. I'm passion
 
 I graduated with a degree in Geological Engineering from Istanbul Technical University. During my 10-month stint as a junior developer, I dove into both frontend and backend development in the SAP C4C environment. I focused on crafting quality code, team collaboration, and implementing solutions to enhance customer experiences.  
 
-I'm also currently enrolled in the Backend Web Development Bootcamp at Re:Coded, where I'm deepening my skills in technologies like JavaScript and Node.js. One of the highlights of my journey is the **Cookiz** project, which was a collaborative effort and a graduation project.  
+I've recently graduated from Backend Web Development Bootcamp at Re:Coded,where I have further enhanced my skills in technologies like JavaScript and Node.js. One of the highlights of my journey was the **Cookiz** project, which was a collaborative effort and a graduation project.  
 
 - [Re:Coded](https://github.com/RCDD-202303-TUR-BEW): Active member and learner in the Backend Web Development Bootcamp, diving into various coding assignments and projects.
 - [Cookiz](https://github.com/ozlemkeles/cookiz): Explore the Cookiz project and witness the results of our hard work, problem-solving, and passion for coding.
